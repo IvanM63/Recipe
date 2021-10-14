@@ -1,2 +1,2 @@
 # Recipe
- resep memasak telor
+Resep ala Ivan Deltotoro 
